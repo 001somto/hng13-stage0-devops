@@ -1,4 +1,4 @@
-# HNG13 DevOps Stage 0
+
 
 **Name:** Ugwu Somto  
 **Slack Username:** @Somto.us
